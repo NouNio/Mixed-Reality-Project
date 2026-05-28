@@ -15,6 +15,11 @@
 		{
 			"Name": "Switchboard",
 			"Enabled": true
+		},
+		{
+			"Name": "QTMConnectLiveLink",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f7c205bbe7894bffa2fe2289d8c81643"
 		}
 	],
 	"TargetPlatforms": [
